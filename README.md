@@ -39,3 +39,10 @@ We would like to express our gratitude to the open-source community for their in
 
 ## Contact
 For any inquiries or feedback regarding NanobotForge, please contact our team at kye@apac.ai. We would love to hear from you!
+
+
+## Resources
+https://paperswithcode.com/paper/towards-predicting-equilibrium-distributions
+https://www.microsoft.com/en-us/research/blog/distributional-graphormer-toward-equilibrium-distribution-prediction-for-molecular-systems/
+https://arxiv.org/abs/2306.05445
+https://github.com/microsoft/Graphormer
