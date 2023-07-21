@@ -38,4 +38,4 @@ NanobotForge is released under the MIT License. Feel free to use, modify, and di
 We would like to express our gratitude to the open-source community for their invaluable contributions and support in making NanobotForge a reality. Special thanks to Oppenheimer for inspiring us with their vision and dedication to scientific exploration.
 
 ## Contact
-For any inquiries or feedback regarding NanobotForge, please contact our team at nanobotforge@opensource.com. We would love to hear from you!
+For any inquiries or feedback regarding NanobotForge, please contact our team at kye@apac.ai. We would love to hear from you!
