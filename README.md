@@ -1,48 +1,103 @@
-# NanobotForge
+# NanoForge
 
-NanobotForge is an open-source project aimed at revolutionizing the field of biochemical optimization through the design of state-of-the-art intra-cellular nanomachines. Inspired by the vision of Oppenheimer, this project seeks to harness the power of nanotechnology to enable precise control and manipulation of biochemical processes within living organisms.
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/NanoForger/nanoforge)](https://pkg.go.dev/github.com/NanoForger/nanoforge) ![GitHub](https://img.shields.io/github/license/NanoForger/nanoforge) ![Tests](https://github.com/NanoForger/nanoforge/workflows/Tests/badge.svg) [![Test Coverage](https://coveralls.io/repos/github/NanoForger/nanoforge/badge.svg?branch=main)](https://coveralls.io/github/NanoForger/nanoforge?branch=main)
 
-## Features
-Advanced Design Capabilities: NanobotForge utilizes cutting-edge technology and intricate algorithms to design nanomachines that operate at the cellular level, enabling targeted delivery of therapeutic agents and precise modulation of cellular signaling pathways.
+---
 
-Biochemical Optimization: By seamlessly integrating into the cellular network, NanobotForge optimizes metabolic pathways, enhances cellular functions, and promotes overall health and well-being.
+## Introduction
 
-Machine Learning Integration: NanobotForge employs machine learning techniques to analyze complex biochemical interactions and predict the most effective design strategies, ensuring successful integration and functionality of the nanomachines within the cellular environment.
+NanoForge is a powerful Rust package specifically crafted for designing and manufacturing ultra-high-performance nanomachines. It is positioned to be the PyTorch equivalent in the nanotechnology domain, merging simplicity with high performance.
 
-Versatile Applications: NanobotForge's designs have diverse applications in medicine, biotechnology, and environmental science, enabling targeted drug delivery, personalized medicine, and the development of novel therapies for complex diseases.
+---
 
-## Getting Started
-To get started with NanobotForge, follow these steps:
+## Key Features
 
-Clone the repository: `git clone https://github.com/NanobotForge`
+- **Performance**: Leverages the speed and efficiency of Rust to deliver ultra-high-performance for nanomachine design and simulation.
 
-Install the required dependencies: `pip install -r requirements.txt`
+- **Usability**: Emulates the simplicity of platforms like PyTorch, making it accessible for both beginners and experts to design, simulate, and manufacture nanomachines.
 
-Run the NanobotForge application: `python nanobotforge.py`
+- **Leading-Edge**: Stays at the forefront of nanotechnology advances, shaping the future of nanomachine design and production.
+
+---
+
+## Installation
+
+To install NanoForge, run the following command:
+
+```shell
+cargo install nanoforge
+```
+
+---
+
+## Documentation
+
+- **Library Documentation**: Comprehensive details about the methods and functionalities of NanoForge.
+
+- **Tutorials**: Interactive learning materials and guides. (live | github)
+
+- **Introduction to Nanotechnology**: A beginner's guide to understanding and getting started with nanotechnology.
+
+---
+
+## Community
+
+Engage with the NanoForge community on Discord! Share your insights, seek advice, and collaborate with other passionate individuals.
+
+---
 
 ## Contributing
-We welcome contributions from the community to help improve NanobotForge. To contribute, please follow these guidelines:
 
-Fork the repository and create a new branch.
+We welcome contributions that can help us improve and extend the capabilities of NanoForge:
 
-Make your changes and ensure they adhere to the project's coding style.
+- **Code of Conduct**: Please familiarize yourself with our code of conduct to understand our expectations for respectful engagement.
 
-Test your changes thoroughly.
+- **Contributor's Guide**: Provides key information and guidelines for making meaningful contributions to NanoForge.
 
-Submit a pull request, describing the changes you have made and their significance.
+---
+
+## Sponsorship
+
+Your support can accelerate our progress! Find out how you can sponsor us [here](https://github.com/sponsors/NanoForger).
+
+---
 
 ## License
-NanobotForge is released under the MIT License. Feel free to use, modify, and distribute this project in accordance with the terms of the license.
 
-## Acknowledgements
-We would like to express our gratitude to the open-source community for their invaluable contributions and support in making NanobotForge a reality. Special thanks to Oppenheimer for inspiring us with their vision and dedication to scientific exploration.
+MIT
 
-## Contact
-For any inquiries or feedback regarding NanobotForge, please contact our team at kye@apac.ai. We would love to hear from you!
+Copyright (c) 2023 NanoForger
 
+---
 
-## Resources
-https://paperswithcode.com/paper/towards-predicting-equilibrium-distributions
-https://www.microsoft.com/en-us/research/blog/distributional-graphormer-toward-equilibrium-distribution-prediction-for-molecular-systems/
-https://arxiv.org/abs/2306.05445
-https://github.com/microsoft/Graphormer
+## Overview
+
+NanoForge is revolutionizing the field of nanotechnology with a comprehensive package for designing, simulating, and manufacturing nanomachines.
+
+Leveraging the robustness and efficiency of Rust, NanoForge offers a performance-optimized platform that's simple and accessible. Our aim is to empower you to create next-gen nanomachines with greater ease and precision.
+
+**tl;dr**
+
+NanoForge is your one-stop solution, the PyTorch of Nanotechnology.
+
+---
+
+## Modules
+
+Each module in NanoForge serves a unique purpose, aiding in different stages of nanomachine development:
+
+- **design**: Tools for creating nanomachine designs.
+
+- **simulate**: Functionalities for performance simulation of nanomachines.
+
+- **material**: Selection of suitable materials for nanomachine design.
+
+- **manufacture**: Conversion of nanomachine designs into ready-to-manufacture blueprints.
+
+- **io**: Utilities for managing nanomachine design data input and output.
+
+- **test**: Suite of tests for NanoForge functions.
+
+- **utils**: Essential utility functions for the NanoForge platform.
+
+Explore the functionalities and documentation you need [here](https://pkg.go.dev/github.com/NanoForger/nanoforge#section-directories).
