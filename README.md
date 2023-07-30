@@ -1,6 +1,6 @@
 # NanoForge
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/NanoForger/nanoforge)](https://pkg.go.dev/github.com/NanoForger/nanoforge) ![GitHub](https://img.shields.io/github/license/NanoForger/nanoforge) ![Tests](https://github.com/NanoForger/nanoforge/workflows/Tests/badge.svg) [![Test Coverage](https://coveralls.io/repos/github/NanoForger/nanoforge/badge.svg?branch=main)](https://coveralls.io/github/NanoForger/nanoforge?branch=main)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/kyegomez/nanoforge)](https://pkg.go.dev/github.com/NanoForger/nanoforge) ![GitHub](https://img.shields.io/github/license/NanoForger/nanoforge) ![Tests](https://github.com/NanoForger/nanoforge/workflows/Tests/badge.svg) [![Test Coverage](https://coveralls.io/repos/github/NanoForger/nanoforge/badge.svg?branch=main)](https://coveralls.io/github/NanoForger/nanoforge?branch=main)
 
 ---
 
