@@ -101,3 +101,6 @@ Each module in NanoForge serves a unique purpose, aiding in different stages of 
 - **utils**: Essential utility functions for the NanoForge platform.
 
 Explore the functionalities and documentation you need [here](https://pkg.go.dev/github.com/NanoForger/nanoforge#section-directories).
+
+
+https://foresight.org/fabrication_cost_key_to_implementing_nanotechnology
